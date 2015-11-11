@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry exported="true" kind="con" path="org.elipse.mtj.JavaMEContainer/Nokia SDK 2.0 for Java/Nokia_SDK_2_0_Java"/>
+	<classpathentry exported="true" kind="lib" path="C:/Nokia/Devices/Nokia_SDK_2_0_Java/plugins/lwuit/bin/sdk2.0/S40-full-touch.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Nokia/Devices/Nokia_SDK_2_0_Java/plugins/lwuit/bin/sdk2.0/S40-non-touch.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Nokia/Devices/Nokia_SDK_2_0_Java/plugins/lwuit/bin/sdk2.0/S40-no-themes.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Nokia/Devices/Nokia_SDK_2_0_Java/plugins/lwuit/bin/sdk2.0/S40-touch-and-type.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Nokia/Devices/Nokia_SDK_2_0_Java/plugins/lwuit/bin/sdk2.0/S40-with-themes.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Alaa/Desktop/ksoap2-j2me-core-2.1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
